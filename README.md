@@ -1,4 +1,4 @@
-# news_timeline
+# news timeline (flask)
 flask app to give timeline showing progression of news topics
 
 run just with python news.py
